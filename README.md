@@ -6,15 +6,17 @@ A Flutter project demonstrating the implementation of the MVVM (Model-View-ViewM
 
 This project follows the MVVM (Model-View-ViewModel) architecture pattern, which is organized as follows:
 
-### Directory Structure
+### 📁 Directory Structure
+
+```plaintext
 lib/
 ├── components/          # Reusable UI components
-├── user_list/          # Feature module
-│   ├── models/         # Data models
-│   ├── views/          # UI screens
-│   ├── view_models/    # Business logic and state management
-│   └── repository/     # Data handling and API calls
-└── utils/              # Utility classes and constants
+├── user_list/           # Feature module
+│   ├── models/          # Data models
+│   ├── views/           # UI screens
+│   ├── view_models/     # Business logic and state management
+│   └── repository/      # Data handling and API calls
+└── utils/               # Utility classes and constants
 
 ### MVVM Components
 
