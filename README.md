@@ -17,6 +17,7 @@ lib/
 │   ├── view_models/     # Business logic and state management
 │   └── repository/      # Data handling and API calls
 └── utils/               # Utility classes and constants
+```
 
 ### MVVM Components
 
